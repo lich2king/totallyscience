@@ -1,0 +1,9159 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"interval": 100,
+					"length": 600,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 8
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": 7
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "1",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "3",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "4",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -144.7019800980457,
+										"abs_y": -372.6468570795404,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "0",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 8
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 9
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 10
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 11
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 0,
+										"timeline": 7
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "1",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "3",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "4",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "5",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "0",
+										"z_index": "5"
+									}
+								],
+								"time": 250
+							}
+						]
+					},
+					"name": "ideal",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9.925926,
+										"y": 47.333333
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"bone": {
+										"angle": 355.060784,
+										"x": 92.925926,
+										"y": -7.925926
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 359.350579,
+										"x": 92.925926,
+										"y": -7.925926
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 250
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 36.592593,
+										"y": -68.518519
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 43.37037,
+										"y": 68.444444
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -29.037037,
+										"y": 60.777778
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -24.037037,
+										"y": -6.555556
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"id": 1,
+					"interval": 100,
+					"length": 600,
+					"looping": "false",
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"timeline": 5
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -145.62790609804568,
+										"abs_y": -371.7209310795404,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 98
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 399
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": 5
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 500
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": 5
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 555
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 5,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 5,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 5,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 5,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 4,
+										"timeline": 5
+									}
+								],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 600
+							}
+						]
+					},
+					"name": "jump",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 7.29732,
+										"y": 108.476119
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 7.29732,
+										"y": 108.476119
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 83.18070699999998,
+										"x": 10.149425,
+										"y": 45.609195
+									},
+									"id": 3,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 212.793414,
+										"x": 28.52381,
+										"y": -63.095238
+									},
+									"id": 1,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 273.956945,
+										"x": 38.637751,
+										"y": -73.704548
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 399
+								},
+								{
+									"bone": {
+										"angle": 212.793414,
+										"x": 44,
+										"y": -75
+									},
+									"id": 3,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 243.947297,
+										"x": 44,
+										"y": -75
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 5,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 139.269048,
+										"x": 26.571429,
+										"y": 69.238095
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 110.18682999999999,
+										"x": 45.438301,
+										"y": 77.389865
+									},
+									"id": 2,
+									"time": 399
+								},
+								{
+									"bone": {
+										"angle": 139.269048,
+										"x": 48,
+										"y": 74
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 132.391451,
+										"x": 48,
+										"y": 74
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 5,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 213.473033,
+										"x": -42.047753,
+										"y": 35.755618
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 199.619204,
+										"x": -40.898328,
+										"y": 43.801595
+									},
+									"id": 2,
+									"time": 399
+								},
+								{
+									"bone": {
+										"angle": 213.473033,
+										"x": -42.047753,
+										"y": 35.755618
+									},
+									"id": 3,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 273.365114,
+										"x": -37.762952,
+										"y": 60.604996
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 5,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 209.748906,
+										"x": -40.741573,
+										"y": -23.421348
+									},
+									"id": 1,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 228.037588,
+										"x": -38.442722,
+										"y": -28.019049
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 399
+								},
+								{
+									"bone": {
+										"angle": 209.748906,
+										"x": -40.741573,
+										"y": -23.421348
+									},
+									"id": 3,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 276.138967,
+										"x": -23.81853,
+										"y": -15.773522
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 5,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 93.06778300000002,
+										"x": 14.29732,
+										"y": 200.476119
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 98
+								},
+								{
+									"bone": {
+										"angle": 93.06778300000002,
+										"x": 14.29732,
+										"y": 200.476119
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 27.494253,
+										"y": 137.609195
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 555
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0,
+									"time": 600
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						}
+					]
+				},
+				{
+					"eventline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"time": 157
+								}
+							],
+							"name": "kick"
+						}
+					],
+					"id": 2,
+					"interval": 100,
+					"length": 510,
+					"looping": "false",
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"timeline": 5
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -145.62790609804568,
+										"abs_y": -371.7209310795404,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 72
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 157
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": 5
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 170
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": 5
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 301
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 4,
+										"timeline": 5
+									}
+								],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 501
+							}
+						]
+					},
+					"name": "dive",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 166.738575,
+										"x": 33.675325,
+										"y": 33.480519
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 72
+								},
+								{
+									"bone": {
+										"angle": 166.738575,
+										"x": 33.675325,
+										"y": 30.871824
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 170
+								},
+								{
+									"bone": {
+										"angle": 166.738575,
+										"x": 33.675325,
+										"y": 33.480519
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 301
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 146.139161,
+										"x": 38.889327,
+										"y": 70.959415
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 170
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 251.767025,
+										"x": -21.151569,
+										"y": 48.700539
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 72
+								},
+								{
+									"bone": {
+										"angle": 245.916504,
+										"x": -29.167909,
+										"y": 48.598032
+									},
+									"id": 2,
+									"time": 170
+								},
+								{
+									"bone": {
+										"angle": 251.767025,
+										"x": -21.151569,
+										"y": 48.700539
+									},
+									"id": 3,
+									"time": 301
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 279.285225,
+										"scale_x": 1.4,
+										"scale_y": 1.4,
+										"x": -59.952329,
+										"y": 0.48827
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 72
+								},
+								{
+									"bone": {
+										"angle": 279.285225,
+										"scale_x": 1.4,
+										"scale_y": 1.4,
+										"x": -70.108853,
+										"y": -1.905411
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 170
+								},
+								{
+									"bone": {
+										"angle": 279.285225,
+										"scale_x": 1.4,
+										"scale_y": 1.4,
+										"x": -59.952329,
+										"y": 0.48827
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 301
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 125.116816,
+										"x": -52.181818,
+										"y": 54.701299
+									},
+									"id": 1,
+									"time": 72
+								},
+								{
+									"bone": {
+										"angle": 127.523762,
+										"x": -57.399209,
+										"y": 49.483907
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 170
+								},
+								{
+									"bone": {
+										"angle": 125.116816,
+										"x": -52.181818,
+										"y": 54.701299
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 301
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						}
+					]
+				},
+				{
+					"id": 3,
+					"interval": 100,
+					"length": 365,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"timeline": 5
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -145.62790609804568,
+										"abs_y": -371.7209310795404,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"timeline": 5
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 99
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 105
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 131
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 198
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": 5
+									}
+								],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 204
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": 5
+									}
+								],
+								"id": 6,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 300
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": 5
+									}
+								],
+								"id": 7,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 309
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 5,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 5,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": 5
+									}
+								],
+								"id": 8,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 329
+							}
+						]
+					},
+					"name": "walk",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 70.086957
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 10.73913,
+										"y": 64.343249
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 198
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 11.416037,
+										"y": 69.350991
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 216.373843,
+										"x": 37.913043,
+										"y": -63.695652
+									},
+									"id": 1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 248.541275,
+										"x": 49.005699,
+										"y": -86.532324
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 300
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 135.379437,
+										"x": 37.565217,
+										"y": 64.434783
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 124.745395,
+										"x": 50.618466,
+										"y": 76.400261
+									},
+									"id": 2,
+									"time": 300
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 255.13785,
+										"x": -34.173913,
+										"y": 83.217391
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 244.065688,
+										"x": -19.542052,
+										"y": 62.672858
+									},
+									"id": 2,
+									"time": 131
+								},
+								{
+									"bone": {
+										"angle": 245.984388,
+										"x": -21.189203,
+										"y": 30.41861
+									},
+									"id": 3,
+									"time": 198
+								},
+								{
+									"bone": {
+										"angle": 277.959286,
+										"x": -41.355154,
+										"y": -23.980134
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 268.439602,
+										"x": -43.995017,
+										"y": -0.01776
+									},
+									"id": 5,
+									"spin": -1,
+									"time": 329
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 288.535999,
+										"x": -34.391304,
+										"y": -31.434783
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 263.580825,
+										"x": -35.640784,
+										"y": -10.225073
+									},
+									"id": 2,
+									"time": 131
+								},
+								{
+									"bone": {
+										"angle": 268.000471,
+										"x": -38.256881,
+										"y": 34.182757
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 198
+								},
+								{
+									"bone": {
+										"angle": 254.139471,
+										"x": -26.350269,
+										"y": 77.071975
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 249.83788,
+										"x": -19.038919,
+										"y": 54.168062
+									},
+									"id": 5,
+									"time": 329
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 16.869565,
+										"y": 164.695652
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 105
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 19.147157,
+										"y": 151.819398
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 204
+								},
+								{
+									"bone": {
+										"angle": 85.06078400000001,
+										"x": 17.964229,
+										"y": 161.502399
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 309
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						}
+					]
+				},
+				{
+					"eventline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0
+								},
+								{
+									"id": 1,
+									"time": 100
+								}
+							],
+							"name": "kick"
+						}
+					],
+					"id": 4,
+					"interval": 100,
+					"length": 300,
+					"looping": "false",
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": 5
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 0,
+										"abs_angle": 336.867269,
+										"abs_pivot_x": 0.677352,
+										"abs_pivot_y": 0.545173,
+										"abs_scale_x": 1.123646,
+										"abs_scale_y": 1.002213,
+										"abs_x": -37.408301,
+										"abs_y": -18.310611,
+										"file": 0,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "kickshade",
+										"timeline": "12",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 2.510807,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -154.16374525115427,
+										"abs_y": -366.6740079062748,
+										"file": 8,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "6"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": 5
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "12",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "6"
+									}
+								],
+								"time": 50
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 0,
+										"timeline": 5
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"timeline": "12",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "6"
+									}
+								],
+								"time": 100
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 0,
+										"timeline": 5
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": "12",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "6"
+									}
+								],
+								"time": 150
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"parent": 0,
+										"timeline": 5
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								],
+								"time": 200
+							}
+						]
+					},
+					"name": "kick",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 122.057028,
+										"x": 9,
+										"y": 64
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 329.460272,
+										"x": 69.919598,
+										"y": -81.281185
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 71.61929099999998,
+										"x": 59.747873,
+										"y": 72.329172
+									},
+									"id": 1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 225.984843,
+										"scale_x": 1.2,
+										"scale_y": 1.2,
+										"x": -1.473472,
+										"y": -25.473125
+									},
+									"id": 1,
+									"time": 50
+								},
+								{
+									"bone": {
+										"angle": 322.350747,
+										"scale_x": 1.4,
+										"scale_y": 1.4,
+										"x": -0.318306,
+										"y": -97.635486
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 238.697134,
+										"x": -40.587701,
+										"y": 13.909256
+									},
+									"id": 1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 357.571591,
+										"x": 94.240741,
+										"y": -7.759259
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 358.667901,
+										"x": 94.240741,
+										"y": -7.759259
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 357.571591,
+										"x": 94.240741,
+										"y": -7.759259
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0,
+									"time": 200
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"a": 0,
+										"angle": 336.867269,
+										"file": 0,
+										"folder": 0,
+										"pivot_x": 0.677352,
+										"pivot_y": 0.545173,
+										"scale_x": 1.123646,
+										"scale_y": 1.002213,
+										"x": -37.408301,
+										"y": 18.310611
+									}
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 355.211953,
+										"file": 0,
+										"folder": 0,
+										"pivot_x": 0.677352,
+										"pivot_y": 0.545173,
+										"scale_x": 2.326554,
+										"scale_y": 2.802767,
+										"x": 65.23294500008724,
+										"y": 78.22606344114716
+									},
+									"time": 100
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 355.211953,
+										"file": 0,
+										"folder": 0,
+										"pivot_x": 0.729092,
+										"pivot_y": 0.710644,
+										"scale_x": 2.326554,
+										"scale_y": 2.802767,
+										"x": 93.718952,
+										"y": 142.857722
+									},
+									"time": 100
+								},
+								{
+									"id": 3,
+									"object": {
+										"a": 0,
+										"angle": 1.7579000000000065,
+										"file": 0,
+										"folder": 0,
+										"pivot_x": 0.729092,
+										"pivot_y": 0.710644,
+										"scale_x": 1.646998,
+										"scale_y": 1.979387,
+										"x": 90.033118,
+										"y": 93.925018
+									},
+									"spin": -1,
+									"time": 150
+								}
+							],
+							"name": "kickshade",
+							"obj": 12
+						}
+					]
+				},
+				{
+					"id": 5,
+					"interval": 100,
+					"length": 500,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"timeline": 5
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 349.254143,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -102.5717663519033,
+										"abs_y": -398.074030741945,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": 5
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"timeline": "12",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"timeline": "15",
+										"z_index": "7"
+									}
+								],
+								"time": 100
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": 5
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"timeline": "13",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"timeline": "14",
+										"z_index": "7"
+									}
+								],
+								"time": 199
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": 5
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "6",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "8",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "9",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "10",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "11",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"timeline": "16",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"timeline": "17",
+										"z_index": "7"
+									}
+								],
+								"time": 300
+							}
+						]
+					},
+					"name": "crying",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 8.350649,
+										"y": 60.103896
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 204.657157,
+										"x": 39.454545,
+										"y": -67.207792
+									},
+									"id": 1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 38.805195,
+										"y": -69.155844
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 143.781741,
+										"x": 42.155844,
+										"y": 69.454545
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 42.805195,
+										"y": 66.857143
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -38.753247,
+										"y": 57.350649
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -32.454545,
+										"y": -2.298701
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"bone": {
+										"angle": 74.31492700000001,
+										"x": 16,
+										"y": 156
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 75.79946799999999,
+										"x": 17.298701,
+										"y": 148.857143
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 75.79946799999999,
+										"x": 16,
+										"y": 156
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 75.79946799999999,
+										"x": 17.948052,
+										"y": 148.207792
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 300
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 250.330587,
+										"file": 4,
+										"folder": 0,
+										"pivot_x": 0.586957,
+										"pivot_y": 0.514286,
+										"scale_x": 1.30481,
+										"scale_y": 1.30481,
+										"x": -13.694128,
+										"y": 229.510955
+									},
+									"spin": 0,
+									"time": 100
+								}
+							],
+							"name": "football character 2-141_000",
+							"obj": 13
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 4.109998000000019,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.498029,
+										"pivot_y": 0.56408,
+										"scale_x": 1.183622,
+										"scale_y": 1.183622,
+										"x": 103.552992,
+										"y": 207.423116
+									},
+									"spin": 0,
+									"time": 199
+								}
+							],
+							"name": "football character 2-142",
+							"obj": 14
+						},
+						{
+							"id": 14,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 259.52118,
+										"file": 3,
+										"folder": 0,
+										"scale_x": 1.18362,
+										"scale_y": 1.18362,
+										"x": -8.846634,
+										"y": 250.829698
+									},
+									"spin": 0,
+									"time": 199
+								}
+							],
+							"name": "football character 2-142_000",
+							"obj": 15
+						},
+						{
+							"id": 15,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 345.86952,
+										"file": 4,
+										"folder": 0,
+										"pivot_x": 0.518399,
+										"pivot_y": 0.568532,
+										"scale_x": 1.304809,
+										"scale_y": 1.304809,
+										"x": 91.944372,
+										"y": 207.139127
+									},
+									"spin": 0,
+									"time": 100
+								}
+							],
+							"name": "football character 2-141_001",
+							"obj": 16
+						},
+						{
+							"id": 16,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 348.346159,
+										"file": 4,
+										"folder": 0,
+										"x": 67.179944,
+										"y": 232.970712
+									},
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "football character 2-141_002",
+							"obj": 17
+						},
+						{
+							"id": 17,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 4,
+										"folder": 0,
+										"scale_x": -1,
+										"x": 21.837751,
+										"y": 244.462525
+									},
+									"spin": 0,
+									"time": 300
+								}
+							],
+							"name": "football character 2-141_003",
+							"obj": 18
+						}
+					]
+				},
+				{
+					"id": 6,
+					"interval": 100,
+					"length": 300,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.00000000000001,
+										"abs_y": -178,
+										"file": 5,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "football character-08",
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -30,
+										"abs_y": -70,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "football character-10",
+										"parent": 4,
+										"timeline": "6",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -83.00000072339108,
+										"abs_y": -69.99999963924276,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "football character-09",
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -140.99999996709386,
+										"abs_y": -133.00000038643984,
+										"file": 6,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "football character-11",
+										"parent": 2,
+										"timeline": "8",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 48.00000056978738,
+										"abs_y": -138.0000000789214,
+										"file": 7,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "football character-12",
+										"parent": 1,
+										"timeline": "9",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1.106505,
+										"abs_scale_y": 1.191499,
+										"abs_x": -145.6279060980457,
+										"abs_y": -371.7209310795404,
+										"file": 8,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "football character-07",
+										"parent": 5,
+										"timeline": "10",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 0
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 0,
+										"timeline": 1
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 0,
+										"timeline": 2
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 0,
+										"timeline": 3
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 0,
+										"timeline": 4
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": 11
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 4,
+										"timeline": "6",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 3,
+										"timeline": "7",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 2,
+										"timeline": "8",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "9",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 5,
+										"timeline": "10",
+										"z_index": "5"
+									}
+								],
+								"time": 149
+							}
+						]
+					},
+					"name": "win",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"bone": {
+										"angle": 90,
+										"x": 9,
+										"y": 64
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 90,
+										"x": 19.59528,
+										"y": 110.255745
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 149
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 220.462227,
+										"x": 44,
+										"y": -75
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 289.167727,
+										"x": 77.883309,
+										"y": -83.240886
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 149
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"bone": {
+										"angle": 132.165889,
+										"x": 48,
+										"y": 74
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 79.77340100000004,
+										"x": 80.752808,
+										"y": 76.980571
+									},
+									"id": 1,
+									"time": 149
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"bone": {
+										"angle": 267.357455,
+										"x": -42,
+										"y": 58
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 226.333665,
+										"x": -42,
+										"y": 58
+									},
+									"id": 1,
+									"time": 149
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"bone": {
+										"angle": 270,
+										"x": -37,
+										"y": -1
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 219.101589,
+										"x": -37,
+										"y": -1
+									},
+									"id": 1,
+									"time": 149
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 270,
+										"file": 5,
+										"folder": 0,
+										"x": 114,
+										"y": 93
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-08",
+							"obj": 7
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"x": -40,
+										"y": 43
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-10",
+							"obj": 9
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 2.642544999999984,
+										"file": 2,
+										"folder": 0,
+										"x": -36.176874,
+										"y": 46.381395
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-09",
+							"obj": 8
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 137.834111,
+										"file": 6,
+										"folder": 0,
+										"x": 42.234664,
+										"y": -66.582529
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-11",
+							"obj": 10
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 49.537773000000016,
+										"file": 7,
+										"folder": 0,
+										"x": -46.187096,
+										"y": -7.921624
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-12",
+							"obj": 11
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 274.939216,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.106505,
+										"scale_y": 1.191499,
+										"x": 201.003896,
+										"y": 179.601041
+									},
+									"spin": 0
+								}
+							],
+							"name": "football character-07",
+							"obj": 6
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 355.060784,
+										"x": 92,
+										"y": -7
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [
+				{
+					"id": 0,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 1
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 1
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 1
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 1
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 1
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 1
+						}
+					],
+					"name": "C1"
+				},
+				{
+					"id": 1,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 2
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 2
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 2
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 2
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 2
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 2
+						}
+					],
+					"name": "C2"
+				},
+				{
+					"id": 2,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 3
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 3
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 3
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 3
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 3
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 3
+						}
+					],
+					"name": "C3"
+				},
+				{
+					"id": 3,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 4
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 4
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 4
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 4
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 4
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 4
+						}
+					],
+					"name": "C4"
+				},
+				{
+					"id": 4,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 5
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 5
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 5
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 5
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 5
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 5
+						}
+					],
+					"name": "C5"
+				},
+				{
+					"id": 5,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 6
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 6
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 6
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 6
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 6
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 6
+						}
+					],
+					"name": "C6"
+				},
+				{
+					"id": 6,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 7
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 7
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 7
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 7
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 7
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 7
+						}
+					],
+					"name": "C7"
+				},
+				{
+					"id": 7,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 8
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 8
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 8
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 8
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 8
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 8
+						}
+					],
+					"name": "C8"
+				},
+				{
+					"id": 8,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 9
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 9
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 9
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 9
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 9
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 9
+						}
+					],
+					"name": "C9"
+				},
+				{
+					"id": 9,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 10
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 10
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 10
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 10
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 10
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 10
+						}
+					],
+					"name": "C10"
+				},
+				{
+					"id": 10,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 11
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 11
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 11
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 11
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 11
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 6,
+							"target_folder": 11
+						}
+					],
+					"name": "C11"
+				},
+				{
+					"id": 11,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 12
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 12
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 12
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 12
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 12
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 12
+						}
+					],
+					"name": "C12"
+				},
+				{
+					"id": 12,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 13
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 13
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 13
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 13
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 13
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 13
+						}
+					],
+					"name": "C13"
+				},
+				{
+					"id": 13,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 14
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 14
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 14
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 14
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 14
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 14
+						}
+					],
+					"name": "C14"
+				},
+				{
+					"id": 14,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 15
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 15
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 15
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 15
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 15
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 15
+						}
+					],
+					"name": "C15"
+				},
+				{
+					"id": 15,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 16
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 16
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 16
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 16
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 16
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 16
+						}
+					],
+					"name": "C16"
+				},
+				{
+					"id": 16,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 17
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 17
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 17
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 17
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 17
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 17
+						}
+					],
+					"name": "C17"
+				},
+				{
+					"id": 17,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 18
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 18
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 18
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 18
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 18
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 18
+						}
+					],
+					"name": "C18"
+				},
+				{
+					"id": 18,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 19
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 19
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 19
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 19
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 19
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 19
+						}
+					],
+					"name": "C19"
+				},
+				{
+					"id": 19,
+					"map": [
+						{
+							"file": 8,
+							"folder": 0,
+							"target_file": 0,
+							"target_folder": 20
+						},
+						{
+							"file": 7,
+							"folder": 0,
+							"target_file": 1,
+							"target_folder": 20
+						},
+						{
+							"file": 6,
+							"folder": 0,
+							"target_file": 2,
+							"target_folder": 20
+						},
+						{
+							"file": 5,
+							"folder": 0,
+							"target_file": 3,
+							"target_folder": 20
+						},
+						{
+							"file": 2,
+							"folder": 0,
+							"target_file": 4,
+							"target_folder": 20
+						},
+						{
+							"file": 1,
+							"folder": 0,
+							"target_file": 5,
+							"target_folder": 20
+						}
+					],
+					"name": "C20"
+				}
+			],
+			"id": 0,
+			"name": "characters",
+			"obj_info": [
+				{
+					"h": 10,
+					"name": "characters_bone_000",
+					"realname": "bone_000",
+					"type": "bone",
+					"w": 82
+				},
+				{
+					"h": 10,
+					"name": "characters_bone_001",
+					"realname": "bone_001",
+					"type": "bone",
+					"w": 81.3019
+				},
+				{
+					"h": 10,
+					"name": "characters_bone_002",
+					"realname": "bone_002",
+					"type": "bone",
+					"w": 44.6878
+				},
+				{
+					"h": 10,
+					"name": "characters_bone_003",
+					"realname": "bone_003",
+					"type": "bone",
+					"w": 71.5052
+				},
+				{
+					"h": 10,
+					"name": "characters_bone_004",
+					"realname": "bone_004",
+					"type": "bone",
+					"w": 65.0692
+				},
+				{
+					"h": 10,
+					"name": "characters_bone_005",
+					"realname": "bone_005",
+					"type": "bone",
+					"w": 62
+				},
+				{
+					"frames": [
+						{
+							"file": 8,
+							"folder": 0
+						},
+						{
+							"file": 0,
+							"folder": 1
+						},
+						{
+							"file": 0,
+							"folder": 2
+						},
+						{
+							"file": 0,
+							"folder": 3
+						},
+						{
+							"file": 0,
+							"folder": 4
+						},
+						{
+							"file": 0,
+							"folder": 5
+						},
+						{
+							"file": 0,
+							"folder": 6
+						},
+						{
+							"file": 0,
+							"folder": 7
+						},
+						{
+							"file": 2,
+							"folder": 8
+						},
+						{
+							"file": 2,
+							"folder": 9
+						},
+						{
+							"file": 0,
+							"folder": 10
+						},
+						{
+							"file": 0,
+							"folder": 11
+						},
+						{
+							"file": 0,
+							"folder": 12
+						},
+						{
+							"file": 0,
+							"folder": 13
+						},
+						{
+							"file": 0,
+							"folder": 14
+						},
+						{
+							"file": 0,
+							"folder": 15
+						},
+						{
+							"file": 0,
+							"folder": 16
+						},
+						{
+							"file": 0,
+							"folder": 17
+						},
+						{
+							"file": 0,
+							"folder": 18
+						},
+						{
+							"file": 0,
+							"folder": 19
+						},
+						{
+							"file": 0,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-07",
+					"realname": "football character-07",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 5,
+							"folder": 0
+						},
+						{
+							"file": 3,
+							"folder": 1
+						},
+						{
+							"file": 5,
+							"folder": 2
+						},
+						{
+							"file": 5,
+							"folder": 3
+						},
+						{
+							"file": 5,
+							"folder": 4
+						},
+						{
+							"file": 5,
+							"folder": 5
+						},
+						{
+							"file": 5,
+							"folder": 6
+						},
+						{
+							"file": 5,
+							"folder": 7
+						},
+						{
+							"file": 5,
+							"folder": 8
+						},
+						{
+							"file": 5,
+							"folder": 9
+						},
+						{
+							"file": 3,
+							"folder": 10
+						},
+						{
+							"file": 4,
+							"folder": 11
+						},
+						{
+							"file": 3,
+							"folder": 12
+						},
+						{
+							"file": 3,
+							"folder": 13
+						},
+						{
+							"file": 3,
+							"folder": 14
+						},
+						{
+							"file": 3,
+							"folder": 15
+						},
+						{
+							"file": 3,
+							"folder": 16
+						},
+						{
+							"file": 3,
+							"folder": 17
+						},
+						{
+							"file": 3,
+							"folder": 18
+						},
+						{
+							"file": 3,
+							"folder": 19
+						},
+						{
+							"file": 3,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-08",
+					"realname": "football character-08",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						},
+						{
+							"file": 4,
+							"folder": 1
+						},
+						{
+							"file": 1,
+							"folder": 2
+						},
+						{
+							"file": 1,
+							"folder": 3
+						},
+						{
+							"file": 1,
+							"folder": 4
+						},
+						{
+							"file": 1,
+							"folder": 5
+						},
+						{
+							"file": 1,
+							"folder": 6
+						},
+						{
+							"file": 1,
+							"folder": 7
+						},
+						{
+							"file": 0,
+							"folder": 8
+						},
+						{
+							"file": 0,
+							"folder": 9
+						},
+						{
+							"file": 4,
+							"folder": 10
+						},
+						{
+							"file": 5,
+							"folder": 11
+						},
+						{
+							"file": 4,
+							"folder": 12
+						},
+						{
+							"file": 4,
+							"folder": 13
+						},
+						{
+							"file": 4,
+							"folder": 14
+						},
+						{
+							"file": 4,
+							"folder": 15
+						},
+						{
+							"file": 4,
+							"folder": 16
+						},
+						{
+							"file": 4,
+							"folder": 17
+						},
+						{
+							"file": 4,
+							"folder": 18
+						},
+						{
+							"file": 4,
+							"folder": 19
+						},
+						{
+							"file": 4,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-09",
+					"realname": "football character-09",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						},
+						{
+							"file": 5,
+							"folder": 1
+						},
+						{
+							"file": 2,
+							"folder": 2
+						},
+						{
+							"file": 2,
+							"folder": 3
+						},
+						{
+							"file": 2,
+							"folder": 4
+						},
+						{
+							"file": 2,
+							"folder": 5
+						},
+						{
+							"file": 2,
+							"folder": 6
+						},
+						{
+							"file": 2,
+							"folder": 7
+						},
+						{
+							"file": 1,
+							"folder": 8
+						},
+						{
+							"file": 1,
+							"folder": 9
+						},
+						{
+							"file": 5,
+							"folder": 10
+						},
+						{
+							"file": 6,
+							"folder": 11
+						},
+						{
+							"file": 5,
+							"folder": 12
+						},
+						{
+							"file": 5,
+							"folder": 13
+						},
+						{
+							"file": 5,
+							"folder": 14
+						},
+						{
+							"file": 5,
+							"folder": 15
+						},
+						{
+							"file": 5,
+							"folder": 16
+						},
+						{
+							"file": 5,
+							"folder": 17
+						},
+						{
+							"file": 5,
+							"folder": 18
+						},
+						{
+							"file": 5,
+							"folder": 19
+						},
+						{
+							"file": 5,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-10",
+					"realname": "football character-10",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 6,
+							"folder": 0
+						},
+						{
+							"file": 2,
+							"folder": 1
+						},
+						{
+							"file": 4,
+							"folder": 2
+						},
+						{
+							"file": 4,
+							"folder": 3
+						},
+						{
+							"file": 4,
+							"folder": 4
+						},
+						{
+							"file": 4,
+							"folder": 5
+						},
+						{
+							"file": 4,
+							"folder": 6
+						},
+						{
+							"file": 4,
+							"folder": 7
+						},
+						{
+							"file": 4,
+							"folder": 8
+						},
+						{
+							"file": 4,
+							"folder": 9
+						},
+						{
+							"file": 2,
+							"folder": 10
+						},
+						{
+							"file": 2,
+							"folder": 11
+						},
+						{
+							"file": 2,
+							"folder": 12
+						},
+						{
+							"file": 2,
+							"folder": 13
+						},
+						{
+							"file": 2,
+							"folder": 14
+						},
+						{
+							"file": 2,
+							"folder": 15
+						},
+						{
+							"file": 2,
+							"folder": 16
+						},
+						{
+							"file": 2,
+							"folder": 17
+						},
+						{
+							"file": 2,
+							"folder": 18
+						},
+						{
+							"file": 2,
+							"folder": 19
+						},
+						{
+							"file": 2,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-11",
+					"realname": "football character-11",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 7,
+							"folder": 0
+						},
+						{
+							"file": 1,
+							"folder": 1
+						},
+						{
+							"file": 3,
+							"folder": 2
+						},
+						{
+							"file": 3,
+							"folder": 3
+						},
+						{
+							"file": 3,
+							"folder": 4
+						},
+						{
+							"file": 3,
+							"folder": 5
+						},
+						{
+							"file": 3,
+							"folder": 6
+						},
+						{
+							"file": 3,
+							"folder": 7
+						},
+						{
+							"file": 3,
+							"folder": 8
+						},
+						{
+							"file": 3,
+							"folder": 9
+						},
+						{
+							"file": 1,
+							"folder": 10
+						},
+						{
+							"file": 1,
+							"folder": 11
+						},
+						{
+							"file": 1,
+							"folder": 12
+						},
+						{
+							"file": 1,
+							"folder": 13
+						},
+						{
+							"file": 1,
+							"folder": 14
+						},
+						{
+							"file": 1,
+							"folder": 15
+						},
+						{
+							"file": 1,
+							"folder": 16
+						},
+						{
+							"file": 1,
+							"folder": 17
+						},
+						{
+							"file": 1,
+							"folder": 18
+						},
+						{
+							"file": 1,
+							"folder": 19
+						},
+						{
+							"file": 1,
+							"folder": 20
+						}
+					],
+					"name": "characters_football character-12",
+					"realname": "football character-12",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "characters_kickshade",
+					"realname": "kickshade",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-141_000",
+					"realname": "football character 2-141_000",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-142",
+					"realname": "football character 2-142",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-142_000",
+					"realname": "football character 2-142_000",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-141_001",
+					"realname": "football character 2-141_001",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-141_002",
+					"realname": "football character 2-141_002",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "characters_football character 2-141_003",
+					"realname": "football character 2-141_003",
+					"type": "sprite"
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 144,
+					"id": 0,
+					"name": "football character-13.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 191
+				},
+				{
+					"height": 97,
+					"id": 1,
+					"name": "foot2.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "foot.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 45,
+					"id": 3,
+					"name": "cry2.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 50
+				},
+				{
+					"height": 34,
+					"id": 4,
+					"name": "cry1.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 45
+				},
+				{
+					"height": 144,
+					"id": 5,
+					"name": "body.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 90,
+					"id": 6,
+					"name": "hand.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 96,
+					"id": 7,
+					"name": "hand2.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 213,
+					"id": 8,
+					"name": "head.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 265
+				}
+			],
+			"id": 0
+		},
+		{
+			"file": [
+				{
+					"height": 196,
+					"id": 0,
+					"name": "C/Asset 1.png",
+					"pivot_x": -0.35875,
+					"pivot_y": 0.994898,
+					"width": 160
+				},
+				{
+					"height": 89,
+					"id": 1,
+					"name": "C/characters_entity_000_footballcharacter12-animation 1-002.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 96,
+					"id": 2,
+					"name": "C/characters_entity_000_footballcharacter11-animation 1-002.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C/characters_entity_000_footballcharacter08-animation 1-002.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C/character 2-11.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C/character 2-10.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				}
+			],
+			"id": 1,
+			"name": "C"
+		},
+		{
+			"file": [
+				{
+					"height": 185,
+					"id": 0,
+					"name": "C (2)/Asset 2.png",
+					"pivot_x": -0.39265700000000003,
+					"pivot_y": 1.04324,
+					"width": 143
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (2)/character 1-04.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (2)/character 1-03.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (2)/characters_entity_000_footballcharacter12-animation 1-000.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 90,
+					"id": 4,
+					"name": "C (2)/characters_entity_000_footballcharacter11-animation 1-000.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (2)/characters_entity_000_footballcharacter08-animation 1-001.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				}
+			],
+			"id": 2,
+			"name": "C (2)"
+		},
+		{
+			"file": [
+				{
+					"height": 183,
+					"id": 0,
+					"name": "C (3)/Asset 3.png",
+					"pivot_x": -0.45860100000000004,
+					"pivot_y": 1.06557,
+					"width": 143
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (3)/character 3-18.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (3)/character 3-17.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (3)/characters_entity_000_footballcharacter12-animation 1-003.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (3)/characters_entity_000_footballcharacter11-animation 1-003.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (3)/characters_entity_000_footballcharacter08-animation 1-003.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				}
+			],
+			"id": 3,
+			"name": "C (3)"
+		},
+		{
+			"file": [
+				{
+					"height": 187,
+					"id": 0,
+					"name": "C (4)/Asset 4.png",
+					"pivot_x": -0.422222,
+					"pivot_y": 1.06417,
+					"width": 135
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (4)/character 4-25.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (4)/character 4-24.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (4)/characters_entity_000_footballcharacter12-animation 1-004.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (4)/characters_entity_000_footballcharacter11-animation 1-004.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (4)/characters_entity_000_footballcharacter08-animation 1-004.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				}
+			],
+			"id": 4,
+			"name": "C (4)"
+		},
+		{
+			"file": [
+				{
+					"height": 204,
+					"id": 0,
+					"name": "C (5)/Asset 5.png",
+					"pivot_x": -0.272143,
+					"pivot_y": 0.965686,
+					"width": 168
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (5)/character 5-32.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 130
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (5)/character 5-31.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (5)/characters_entity_000_footballcharacter12-animation 1-005.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (5)/characters_entity_000_footballcharacter11-animation 1-005.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (5)/characters_entity_000_footballcharacter08-animation 1-005.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				}
+			],
+			"id": 5,
+			"name": "C (5)"
+		},
+		{
+			"file": [
+				{
+					"height": 195,
+					"id": 0,
+					"name": "C (6)/Asset 6.png",
+					"pivot_x": -0.324503,
+					"pivot_y": 1.01538,
+					"width": 151
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (6)/character 6-39.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (6)/character 6-38.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (6)/characters_entity_000_footballcharacter12-animation 1-006.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (6)/characters_entity_000_footballcharacter11-animation 1-006.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (6)/characters_entity_000_footballcharacter08-animation 1-006.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				}
+			],
+			"id": 6,
+			"name": "C (6)"
+		},
+		{
+			"file": [
+				{
+					"height": 196,
+					"id": 0,
+					"name": "C (7)/Asset 7.png",
+					"pivot_x": -0.391892,
+					"pivot_y": 1.02041,
+					"width": 148
+				},
+				{
+					"height": 88,
+					"id": 1,
+					"name": "C (7)/character 7-46.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 2,
+					"name": "C (7)/character 7-45.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (7)/characters_entity_000_footballcharacter12-animation 1-007.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (7)/characters_entity_000_footballcharacter11-animation 1-007.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (7)/characters_entity_000_footballcharacter08-animation 1-007.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				}
+			],
+			"id": 7,
+			"name": "C (7)"
+		},
+		{
+			"file": [
+				{
+					"height": 88,
+					"id": 0,
+					"name": "C (8)/character 8-53.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 1,
+					"name": "C (8)/character 8-52.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				},
+				{
+					"height": 200,
+					"id": 2,
+					"name": "C (8)/Asset 9.png",
+					"pivot_x": -0.26000000000000006,
+					"pivot_y": 0.99,
+					"width": 167
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (8)/characters_entity_000_footballcharacter12-animation 1-008.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (8)/characters_entity_000_footballcharacter11-animation 1-008.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (8)/characters_entity_000_footballcharacter08-animation 1-008.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				}
+			],
+			"id": 8,
+			"name": "C (8)"
+		},
+		{
+			"file": [
+				{
+					"height": 88,
+					"id": 0,
+					"name": "C (9)/character 9-60.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 1,
+					"name": "C (9)/character 9-59.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				},
+				{
+					"height": 184,
+					"id": 2,
+					"name": "C (9)/Asset 8.png",
+					"pivot_x": -0.43970600000000004,
+					"pivot_y": 1.07065,
+					"width": 136
+				},
+				{
+					"height": 96,
+					"id": 3,
+					"name": "C (9)/characters_entity_000_footballcharacter12-animation 1-009.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 4,
+					"name": "C (9)/characters_entity_000_footballcharacter11-animation 1-009.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 5,
+					"name": "C (9)/characters_entity_000_footballcharacter08-animation 1-009.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				}
+			],
+			"id": 9,
+			"name": "C (9)"
+		},
+		{
+			"file": [
+				{
+					"height": 199,
+					"id": 0,
+					"name": "C (10)/Asset 10.png",
+					"pivot_x": -0.41000000000000003,
+					"pivot_y": 0.979899,
+					"width": 150
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (10)/characters_entity_000_footballcharacter12-animation 1-010.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (10)/characters_entity_000_footballcharacter11-animation 1-010.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (10)/characters_entity_000_footballcharacter08-animation 1-010.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (10)/character 10-67.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (10)/character 10-66.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 10,
+			"name": "C (10)"
+		},
+		{
+			"file": [
+				{
+					"height": 185,
+					"id": 0,
+					"name": "C (11)/Asset 11.png",
+					"pivot_x": -0.437037,
+					"pivot_y": 1.05405,
+					"width": 135
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (11)/characters_entity_000_footballcharacter12-animation 1-011.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (11)/characters_entity_000_footballcharacter11-animation 1-011.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 144,
+					"id": 3,
+					"name": "C (11)/character 11-77.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 190
+				},
+				{
+					"height": 143,
+					"id": 4,
+					"name": "C (11)/characters_entity_000_footballcharacter08-animation 1-011.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 5,
+					"name": "C (11)/character 11-74.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 6,
+					"name": "C (11)/character 11-73.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 11,
+			"name": "C (11)"
+		},
+		{
+			"file": [
+				{
+					"height": 186,
+					"id": 0,
+					"name": "C (12)/Asset 12.png",
+					"pivot_x": -0.395833,
+					"pivot_y": 1.05914,
+					"width": 144
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (12)/characters_entity_000_footballcharacter12-animation 1-012.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (12)/characters_entity_000_footballcharacter11-animation 1-012.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (12)/characters_entity_000_footballcharacter08-animation 1-012.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (12)/character 12-81.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (12)/character 12-80.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				}
+			],
+			"id": 12,
+			"name": "C (12)"
+		},
+		{
+			"file": [
+				{
+					"height": 196,
+					"id": 0,
+					"name": "C (13)/Asset 13.png",
+					"pivot_x": -0.223529,
+					"pivot_y": 1,
+					"width": 170
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (13)/characters_entity_000_footballcharacter12-animation 1-013.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (13)/characters_entity_000_footballcharacter11-animation 1-013.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (13)/characters_entity_000_footballcharacter08-animation 1-013.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (13)/character 13-88.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (13)/character 13-87.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 13,
+			"name": "C (13)"
+		},
+		{
+			"file": [
+				{
+					"height": 207,
+					"id": 0,
+					"name": "C (14)/Asset 14.png",
+					"pivot_x": -0.293413,
+					"pivot_y": 1.02415,
+					"width": 167
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (14)/characters_entity_000_footballcharacter12-animation 1-014.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (14)/characters_entity_000_footballcharacter11-animation 1-014.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (14)/characters_entity_000_footballcharacter08-animation 1-014.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (14)/character 14-95.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (14)/character 14-94.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				}
+			],
+			"id": 14,
+			"name": "C (14)"
+		},
+		{
+			"file": [
+				{
+					"height": 240,
+					"id": 0,
+					"name": "C (15)/Asset 18.png",
+					"pivot_x": -0.041026,
+					"pivot_y": 0.941667,
+					"width": 195
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (15)/characters_entity_000_footballcharacter12-animation 1-015.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 102
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (15)/characters_entity_000_footballcharacter11-animation 1-015.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (15)/characters_entity_000_footballcharacter08-animation 1-015.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (15)/character 15-102.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 130
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (15)/character 15-101.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 15,
+			"name": "C (15)"
+		},
+		{
+			"file": [
+				{
+					"height": 198,
+					"id": 0,
+					"name": "C (16)/Asset 17.png",
+					"pivot_x": -0.133333,
+					"pivot_y": 0.984848,
+					"width": 180
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (16)/characters_entity_000_footballcharacter12-animation 1-016.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (16)/characters_entity_000_footballcharacter11-animation 1-016.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (16)/characters_entity_000_footballcharacter08-animation 1-016.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (16)/character 16-109.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (16)/character 16-108.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 16,
+			"name": "C (16)"
+		},
+		{
+			"file": [
+				{
+					"height": 218,
+					"id": 0,
+					"name": "C (17)/Asset 15.png",
+					"pivot_x": -0.278788,
+					"pivot_y": 1.04587,
+					"width": 165
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (17)/characters_entity_000_footballcharacter12-animation 1-017.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (17)/characters_entity_000_footballcharacter11-animation 1-017.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (17)/characters_entity_000_footballcharacter08-animation 1-017.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (17)/character 17-116.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (17)/character 17-115.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				}
+			],
+			"id": 17,
+			"name": "C (17)"
+		},
+		{
+			"file": [
+				{
+					"height": 200,
+					"id": 0,
+					"name": "C (18)/Asset 20.png",
+					"pivot_x": -0.121547,
+					"pivot_y": 0.97,
+					"width": 181
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (18)/characters_entity_000_footballcharacter12-animation 1-018.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (18)/characters_entity_000_footballcharacter11-animation 1-018.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 109
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (18)/characters_entity_000_footballcharacter08-animation 1-018.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 175
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (18)/character 18-123.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (18)/character 18-122.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 137
+				}
+			],
+			"id": 18,
+			"name": "C (18)"
+		},
+		{
+			"file": [
+				{
+					"height": 196,
+					"id": 0,
+					"name": "C (19)/Asset 21.png",
+					"pivot_x": -0.222222,
+					"pivot_y": 1.0051,
+					"width": 171
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (19)/characters_entity_000_footballcharacter12-animation 1-019.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (19)/characters_entity_000_footballcharacter11-animation 1-019.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (19)/characters_entity_000_footballcharacter08-animation 1-019.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (19)/character 19-130.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (19)/character 19-129.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 19,
+			"name": "C (19)"
+		},
+		{
+			"file": [
+				{
+					"height": 210,
+					"id": 0,
+					"name": "C (20)/Asset 16.png",
+					"pivot_x": -0.057592,
+					"pivot_y": 0.933333,
+					"width": 191
+				},
+				{
+					"height": 96,
+					"id": 1,
+					"name": "C (20)/characters_entity_000_footballcharacter12-animation 1-020.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 103
+				},
+				{
+					"height": 89,
+					"id": 2,
+					"name": "C (20)/characters_entity_000_footballcharacter11-animation 1-020.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 108
+				},
+				{
+					"height": 143,
+					"id": 3,
+					"name": "C (20)/characters_entity_000_footballcharacter08-animation 1-020.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 176
+				},
+				{
+					"height": 88,
+					"id": 4,
+					"name": "C (20)/character 20-137.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 131
+				},
+				{
+					"height": 97,
+					"id": 5,
+					"name": "C (20)/character 20-136.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 136
+				}
+			],
+			"id": 20,
+			"name": "C (20)"
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r11",
+	"scon_version": "1.0"
+}
