@@ -43,23 +43,7 @@
             if (appData == null) window.location.href = '../apps.php';
 
             //appData.url
-            import epoxy from "./epoxy-module-bundled.js";
-            // or
-            // importScripts("epoxy-bundled.js");
-
-            const { EpoxyClient, certs } = await epoxy();
-
-            let client = await new EpoxyClient("wss://localhost:4000", navigator.userAgent, 10);
-
-            // You can view the certificates compiled in
-            console.log(certs())
-
-            // You can view and change the user agent and redirect limit
-            console.log(client.userAgent);
-            client.redirect_limit = 5;
-
-            let response = await client.fetch(appData.url);
-            console.log(await response.text());
+            
 
             // if ('serviceWorker' in navigator) 
             // {
