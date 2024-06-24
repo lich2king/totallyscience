@@ -42,26 +42,48 @@
 
             if (appData == null) window.location.href = '../apps.php';
 
-            if ('serviceWorker' in navigator) {
-                navigator.serviceWorker.register('uv-sw.js', {
-                    scope: __uv$config.prefix
-                }).then(() => {
-                    if (appData.type == 'proxy') appFrame.src = (__uv$config.prefix + __uv$config.encodeUrl(appData.url));
-                    else appFrame.src = appData.url;
-               }, (err) => {
-                    console.log(err);
-               });
-            } else {
-                document.querySelector('.lds-dual-ring').remove();
-                document.querySelector('.info').textContent = 'Your browser appears to be in private browsing mode or is not compatabile. Try swapping or updating your browser.';
-            };
+            //appData.url
+            import epoxy from "./epoxy-module-bundled.js";
+            // or
+            // importScripts("epoxy-bundled.js");
 
-            let response = await fetcher(`/auth/check`);
-            if (response.status == 200) {
-                // display points count in navbar
-                let json = await response.json();
-                setPointsDisplay(json.points || 0, json.username || "");
-            }
+            const { EpoxyClient, certs } = await epoxy();
+
+            let client = await new EpoxyClient("wss://localhost:4000", navigator.userAgent, 10);
+
+            // You can view the certificates compiled in
+            console.log(certs())
+
+            // You can view and change the user agent and redirect limit
+            console.log(client.userAgent);
+            client.redirect_limit = 5;
+
+            let response = await client.fetch(appData.url);
+            console.log(await response.text());
+
+            // if ('serviceWorker' in navigator) 
+            // {
+            //     navigator.serviceWorker.register('uv-sw.js', {
+            //         scope: __uv$config.prefix
+            //     }).then(() => {
+            //         if (appData.type == 'proxy') appFrame.src = (__uv$config.prefix + __uv$config.encodeUrl(appData.url));
+            //         else appFrame.src = appData.url;
+            //    }, (err) => {
+            //         console.log(err);
+            //    });
+            // } 
+            // else 
+            // {
+            //     document.querySelector('.lds-dual-ring').remove();
+            //     document.querySelector('.info').textContent = 'Your browser appears to be in private browsing mode or is not compatabile. Try swapping or updating your browser.';
+            // };
+
+            // let response = await fetcher(`/auth/check`);
+            // if (response.status == 200) {
+            //     // display points count in navbar
+            //     let json = await response.json();
+            //     setPointsDisplay(json.points || 0, json.username || "");
+            // }
         });
     </script>
 </body>
