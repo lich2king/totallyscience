@@ -43,7 +43,31 @@
             if (appData == null) window.location.href = '../apps.php';
 
             //appData.url
-            
+
+            // Create a new Web Worker
+            const worker = new Worker('epoxy/worker.js');
+
+            // Define the URL you want to fetch
+            const url = appData.url;
+
+            // Send the URL to the worker
+            worker.postMessage({ url });
+
+            // Handle messages from the worker
+            worker.onmessage = function(event) {
+                const { success, data, error } = event.data;
+
+                if (success) {
+                    console.log('Response from worker:', data);
+                } else {
+                    console.error('Error from worker:', error);
+                }
+            };
+
+            // Error handling for the worker
+            worker.onerror = function(error) {
+                console.error('Worker error:', error);
+            };
 
             // if ('serviceWorker' in navigator) 
             // {
