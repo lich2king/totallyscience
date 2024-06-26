@@ -45,7 +45,7 @@
             //appData.url
 
             // Create a new Web Worker
-            const worker = new Worker('epoxy/worker.js');
+            const worker = new Worker('epoxy-client/pkg/worker.js');
 
             // Define the URL you want to fetch
             const url = appData.url;
