@@ -5,7 +5,7 @@ self.onmessage = async function(event) {
 
     // Initialize EpoxyClient
     const { EpoxyClient, certs } = await epoxy();
-    let client = await new EpoxyClient("wss://localhost:8000", navigator.userAgent, 10);
+    let client = await new EpoxyClient("wss://localhost:4000", navigator.userAgent, 10);
 
     try {
         // Fetch data using EpoxyClient
